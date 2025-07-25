@@ -1,6 +1,6 @@
 # Dinoki Releases
 
-Public releases for the Dinoki app.
+Public releases for the Dinoki Windows app.
 
 ## What is Dinoki?
 
@@ -28,18 +28,23 @@ We're excited to hear your ideas for improving Dinoki! Have a feature idea? Post
 
 ## Download and Installation
 
-1. Visit the [Releases](https://github.com/dinoki-ai/public_win/releases) page.
-2. Download the latest `.exe` file.
-3. Run the installer and follow the installation wizard.
-4. Launch Dinoki from your Start Menu or Desktop shortcut.
+1. Visit the [Releases](https://github.com/dinoki-ai/public_win/releases) page
+2. Download the latest `.appinstaller` file
+3. Double-click to install
+4. Windows will automatically check for updates
+
+### Alternative Options
+
+- **Manual Update**: Download the `.msixbundle` file and double-click to update
+- **Portable Version**: Download the `.zip` file - no installation required, just extract and run
 
 ## Automatic Updates
 
-Dinoki comes with automatic update functionality. The app will notify you as soon as new versions become available.
+Dinoki automatically checks for updates through Windows App Installer every 24 hours. You'll be notified when new versions are available and can choose to update immediately or later.
 
 ## System Requirements
 
-- Windows 10 or later
+- Windows 10 (version 2004/20H1) or later
 - x64 processor
 
 ## Support
